@@ -4,6 +4,7 @@
         "vid": "0x24db",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY",
+        "mac2": "XXYYXXYYXXxx",
         "DiskIdxMap": "00006",
         "SataPortMap": "64",
         "SasIdxMap": "0",
@@ -12,4 +13,3 @@
     "ramdisk_copy": {},
     "extensions": []
 }
-
