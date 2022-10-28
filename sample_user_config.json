@@ -2,6 +2,7 @@
     "extra_cmdline": {
         "pid": "0x3257",
         "vid": "0x24db",
+        "netif_num": "2",
         "sn": "1234XXX123",
         "mac1": "XXYYXXYYXXYY",
         "mac2": "XXYYXXYYXXxx",
