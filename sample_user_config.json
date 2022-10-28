@@ -8,7 +8,7 @@
         "mac2": "XXYYXXYYXXxx",
         "DiskIdxMap": "00006",
         "SataPortMap": "64",
-        "SasIdxMap": "0",
+        "SasIdxMap": "0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
